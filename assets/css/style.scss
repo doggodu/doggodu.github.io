@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.navbar 
+::ng-deep .navCss nav
 {
-     background-color: #C1C6C8;
+      background-color: #CEDD43;
 }
